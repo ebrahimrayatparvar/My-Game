@@ -13,6 +13,7 @@ namespace myGame
         Right,
         Bottom
     }
+
     class Mar
     {
         public int X { get; set; }
